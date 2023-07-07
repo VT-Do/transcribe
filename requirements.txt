@@ -1,2 +1,8 @@
-google-cloud-bigquery==2.3.1
-streamlit-authenticator
+streamlit
+websockets
+asyncio
+base64
+json
+pyaudio
+os
+pathlib
